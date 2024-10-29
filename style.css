@@ -20,7 +20,8 @@ img {border: 20px solid;
 table th {color: peru;
     font-size: 110%;
     background-color: gold;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-left: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+table {margin-left: auto;
     margin-right: auto}
 a {font-size: 120%;}
+html {background-color: black;}
